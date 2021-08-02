@@ -18,3 +18,23 @@ Previously a marketing specialist with a knack for creating custom tooling and s
 - 🔭 Working on my own little RPG game
 - 🌱 Learning Python and improving my OOP design skills 
 - 🐸 Designing my own little frog collection in Blender
+
+### My Socials 🔗
+
+<p>
+  <a href="https://www.linkedin.com/in/mihaela-aleksandrova-133498117/" title="LinkedIn">
+    <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://leetcode.com/vdova/" title="LinkedIn">
+    <img src= "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+</p>
+
+<p>
+  <a href="https://discordapp.com/users/245472655984164866/" title="LinkedIn">
+    <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
