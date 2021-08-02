@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Mihaela! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**mihaelaaleks/mihaelaaleks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying software development in Eindhoven, the Netherlands. 
+Always trying to grow, learn and take a step out of my comfort zone! I'm an adaptable professional with a hands-on approach.
+Check out my Arduino and software projects below! 🤖
+Previously a marketing specialist with a knack for creating custom tooling and setting up SQL databases for reporting customer solutions (Retail Display Lighting customer solutions builder), customer data and regional sales data.
 
-Here are some ideas to get you started:
+- 😄 Pronouns: She/Her
+- ☕ Fun fact: I'm a coffee lover 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Knowledgable in 📖
+- 📚 Programming: C, C#
+- 📚 Database: SQL, R
+- 📚 Development: HTML, CSS
+- 📚 Version control: GIT
+
+### What I'm focusing on 💻
+- 🔭 Working on my own little RPG game
+- 🌱 Learning Python and improving my OOP design skills 
+- 🐸 Designing my own little frog collection in Blender
