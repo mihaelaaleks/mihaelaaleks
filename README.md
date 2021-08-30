@@ -12,7 +12,7 @@ Previously a marketing specialist with a knack for creating custom tooling and s
 - 📚 Programming: C, C#
 - 📚 Database: SQL, R
 - 📚 Development: HTML, CSS
-- 📚 Version control: GIT
+- 📚 Version control: GitHub, GitLab
 
 ### What I'm focusing on 💻
 - 🔭 Working on my own little RPG game
