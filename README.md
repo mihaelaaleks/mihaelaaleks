@@ -9,9 +9,9 @@ Previously a marketing specialist with a knack for creating custom tooling and s
 - ☕ Fun fact: I'm a coffee lover 
 
 ### Knowledgable in 📖
-- 📚 Programming: C, C#
-- 📚 Database: SQL, R
-- 📚 Development: HTML, CSS
+- 📚 Programming: C, C#, Python
+- 📚 Database/Data handling: SQL, R, Python
+- 📚 Development: HTML, CSS, SASS
 - 📚 Version control: GitHub, GitLab
 
 ### What I'm focusing on 💻
